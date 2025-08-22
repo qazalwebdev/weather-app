@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@font-face{
+    font-family: funnel;
+    src: url(../src/assets/font/FunnelDisplay-VariableFont_wght.ttf);
+}
+*{
+    font-family: funnel;
+}
